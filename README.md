@@ -10,22 +10,24 @@
 ## Mr. Breedeveld
 - Born & raised in '95 where my squinty eyes were mesmerized by the Netherlands 🇳🇱.
 - Worked for various startups since 2013.
-- When things get crazy, I hear "Daniel Breedeveld". Don't ask me how to pronounce my surname in English, I'm struggling just as much as you.
+- Don't ask me how to pronounce my surname in English, I'm struggling just as much as you.
 
-## Find Me
-Look, I've found this website where I can dump all the programming languages and tools I have used and have forgotten. But that's how you're supposed to complete your profile, right? It's on my [LinkedIn](https://www.linkedin.com/in/breedeveld/).
+## Connect
+Look, I've found this website where I can dump all the programming languages and tools I have used in the past and have forgotten about.
 
-## Nerdy Studies
+Any idea which website? Wrong, it's not Pastebin. It's my [my LinkedIn profile](https://www.linkedin.com/in/breedeveld/).
+
+## Studies
 - ✅ Completed VET in Software Engineering 2011 - 2015 @ Rotterdam Zadkine. Using languages such as HTML/CSS/JS/PHP, C# WinForm, C# Xamarin, UML diagrams, databases and more.
 - ✅ Completed BSc in Software Engineering in 2015-2019 @ Rotterdam University. Using languages such as Python, TypeScript, R, F# and more importantly learning advanced concepts.
 
-## Recent Journey
-- 🇨🇳 During my BSc, I flew to China to do an internship at a company related to hexicopter drones. 
-- 👪 After my internship ended, I flew back as a dad.
-- 🇳🇱🇦🇺 After my BSc, I moved from NL to AU living with my new fam. Mind you, that's a flight to the opposite side of our planet. Without RedBull.
+## Journey
+- 🇨🇳 During my BSc, I flew to China to do an internship at a company known in the open source drone community. Check out my [video](https://www.youtube.com/watch?v=ojopL8bjvg0).
+- 👪 After my internship ended, I flew back as a dad. (oops)
+- 🇳🇱🇦🇺 After my BSc, I moved from NL to AU living with my new fam. Why AU? Long story.
 - 💼 Working for various start-ups again.
 
-To this day, I'm still trying to mimick being an aussie. Dropbears are real.
+To this day, I'm still working on perfecting my Aussie accent. I'm about 1% there. I definitely recommend visiting Australia—just keep an eye out for those drop bears!
 
 ## Git Stats
 
